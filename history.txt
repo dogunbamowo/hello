@@ -1,0 +1,16 @@
+  153  python3 main.py
+  154  scp-bp-automator
+  155  cd Downloads
+  156  scp-bp-automator
+  157  ls 
+  158  scp-bp-automator
+  159  python3 main.py
+  160  ls
+  161  cd Desktop
+  162  cd Desktop
+  163  ls
+  164  scp-bp-automator
+  165  python3 main.py
+  166  history
+  167  echo $HISTSIZE
+  168  history > /Users/doguna/Desktop/history.txt
